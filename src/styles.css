@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
+*
+{
+background-color: #ff99dd;
+font-family: 'Calligraffitti', cursive;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
